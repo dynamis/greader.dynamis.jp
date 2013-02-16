@@ -1,0 +1,11 @@
+{
+  "name": "Google Reader Web",
+  "description": "Load Google Reader on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/greader32.png",
+    "64":  "/icons/greader64.png",
+    "128": "/icons/greader128.png",
+    "256": "/icons/greader256.png"
+  }
+}
